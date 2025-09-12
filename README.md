@@ -5,7 +5,6 @@
 <h2 align="left">Hi 👋! My name is Verônica and i'm a Brazilian WebDesigner </h2>
 <h2 align="left">Hi Olá, tudo bem? Me chamo Verônica e sou estudante de progração! </h2>
 
-###
 <h2 align="left">About me</h2>
 
 ###
