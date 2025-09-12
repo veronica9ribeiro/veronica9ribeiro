@@ -1,8 +1,9 @@
-<h1 align="left">Hey 👋 What's up?</h1>![BrezilyaBrazilFlagGIF](https://github.com/user-attachments/assets/1fa3683c-d5ed-4018-93b1-4f3e4f98f388)
+
 
 ### 
 
 <h2 align="left">Hi 👋! My name is Verônica and i'm a Brazilian WebDesigner </h2>
+<h2 align="left">Hi Olá, tudo bem? Me chamo Verônica e sou estudante de progração! </h2>
 
 ###
 <h2 align="left">About me</h2>
