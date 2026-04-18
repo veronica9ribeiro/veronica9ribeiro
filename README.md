@@ -12,9 +12,7 @@
 <p align="left">✨ Creating inovation since 2025<br>📚 I'm currently learning about Hardwares, Softwares and Circuits<br>
 ###
 
-<h2 align="left">I code with</h2>
 
-###
 
 
 
