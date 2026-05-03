@@ -1,16 +1,53 @@
+# Olá, eu sou a Verônica 👋
 
+Estudante de **Engenharia da Informação** na UFABC e estagiária de **Automação de RH** na Saint-Gobain, onde desenvolvo soluções em Python para processos de recursos humanos.
 
-### 
+---
 
-<h2 align="left">Hi 👋! My name is Verônica and i'm a Brazilian Student of Computer Engineering </h2>
+## 🛠️ O que estou construindo
 
+- 🤖 **Automação de RH** — scripts Python para manipulação de dados, cálculos com datas/fusos e integração com APIs (Saint-Gobain)
+- 🎮 **Plataforma de jogos web** — catálogo com cards, páginas detalhadas por jogo, carrossel de imagens e especificações técnicas (Bootstrap + JavaScript)
 
-<h2 align="left">About me</h2>
+---
 
-###
+## 🧰 Tecnologias
 
-<p align="left">✨ Creating inovation since 2025<br>📚 I'm currently learning about Hardwares, Softwares and Circuits<br>
-###
+**Linguagens**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Bibliotecas & Ferramentas**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+
+---
+
+## 📚 Atualmente estudando
+
+- Python aplicado a RH (pandas, pytz, requests, OAuth2)
+- Integração com APIs REST
+- Inglês técnico para TI
+
+---
+
+## 🎓 Formação & Cursos
+
+- Engenharia da Informação — UFABC (em andamento)
+- Cursos de programação — Alura & Santander
+
+---
+
+## 📫 Contato
+
+[![Gmail](https://img.shields.io/badge/veronicasilri9@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:veronicasilri9@gmail.com)
 
 
 
