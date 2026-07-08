@@ -4,12 +4,6 @@ Estudante de **Engenharia da Informação** na UFABC e estagiária de **Automaç
 
 ---
 
-## 🛠️ O que estou construindo
-
-- 🤖 **Automação de RH** — scripts Python para manipulação de dados, cálculos com datas/fusos e integração com APIs (Saint-Gobain)
-- 🎮 **Plataforma de jogos web** — catálogo com cards, páginas detalhadas por jogo, carrossel de imagens e especificações técnicas (Bootstrap + JavaScript)
-
----
 
 ## 🧰 Tecnologias
 
@@ -41,7 +35,7 @@ Estudante de **Engenharia da Informação** na UFABC e estagiária de **Automaç
 ## 🎓 Formação & Cursos
 
 - Engenharia da Informação — UFABC (em andamento)
-- Cursos de programação — Alura & Santander
+- Cursos de programação — FIAP , Alura & Santander
 
 ---
 
