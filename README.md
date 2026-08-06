@@ -1,6 +1,6 @@
 # Olá, eu sou a Verônica 👋
 
-Estudante de **Engenharia da Computação** na UFABC e estagiária de **Automação **, onde desenvolvo soluções em Python para processos de recursos humanos.
+Estudante de **Engenharia da Computação** na UFABC e estagiária de **Automação**, onde desenvolvo soluções em Python para processos de recursos humanos.
 
 ---
 
