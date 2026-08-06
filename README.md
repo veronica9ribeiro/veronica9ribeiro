@@ -1,6 +1,6 @@
 # Olá, eu sou a Verônica 👋
 
-Estudante de **Engenharia da Informação** na UFABC e estagiária de **Automação de RH** na Saint-Gobain, onde desenvolvo soluções em Python para processos de recursos humanos.
+Estudante de **Engenharia da Computação** na UFABC e estagiária de **Automação **, onde desenvolvo soluções em Python para processos de recursos humanos.
 
 ---
 
@@ -26,16 +26,18 @@ Estudante de **Engenharia da Informação** na UFABC e estagiária de **Automaç
 
 ## 📚 Atualmente estudando
 
-- Python aplicado a RH (pandas, pytz, requests, OAuth2)
+- Python  (pandas, pytz, requests, OAuth2)
 - Integração com APIs REST
-- Inglês técnico para TI
+- Inglês 
 
 ---
 
 ## 🎓 Formação & Cursos
 
-- Engenharia da Informação — UFABC (em andamento)
-- Cursos de programação — FIAP , Alura & Santander
+- Engenharia da Computação  na UFABC (em andamento)
+- Cursei 1 ano de Web Design na FIAP 
+- Cursos de programação (Fullsteck)— Alura & Santander
+  
 
 ---
 
