@@ -1,109 +1,135 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:5B21B6,100:00FFFF&height=180&section=header&text=Ver%C3%B4nica%20Ribeiro&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
-
-### ⚡ Engenharia da Computação | Automação | Desenvolvimento
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=Transformando+processos+em+solu%C3%A7%C3%B5es+digitais;Python+%7C+APIs+%7C+Automação+%7C+Full+Stack;Construindo+o+futuro+com+tecnologia"/>
-
-</div>
-
----
-
-# 👩‍💻 Sobre mim
-
-Olá! Eu sou **Verônica Ribeiro**.
-
-Sou estudante de **Engenharia da Computação na UFABC** e atuo como estagiária de **Automação**, desenvolvendo soluções em Python para otimização de processos corporativos, principalmente em ambientes de Recursos Humanos.
-
-Tenho interesse em transformar tarefas manuais em soluções inteligentes através de **automação, integração de APIs, desenvolvimento de sistemas e análise de dados**.
-
-Minha jornada une tecnologia, criatividade e resolução de problemas, com experiência em desenvolvimento de aplicações, prototipação de interfaces e construção de ferramentas que geram impacto real.
-
-🌎 Possuo conhecimento em **inglês para comunicação técnica e ambientes profissionais internacionais**.
-
----
-
-# 🧬 Tech Stack
-
-<div align="center">
-
-## 💻 Linguagens
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,40:111827,70:00BFFF,100:8A2BE2&height=180&section=header&text=VER%C3%94NICA%20RIBEIRO&fontSize=42&fontColor=FFFFFF&animation=fadeIn"/>
 
 <br>
 
-## 🛠️ Bibliotecas & Ferramentas
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,nodejs" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Automation+%7C+Python+%7C+Software+Development;Building+Digital+Solutions+Through+Technology"/>
 
 </div>
 
 ---
 
-# ⚙️ Especialidades
+# PROFILE
 
-```yaml
-Automação:
-  - Python
-  - Processamento de dados
-  - Integração com APIs REST
-  - Automação de processos
+```text
+NAME      : Verônica Ribeiro
+FIELD     : Computer Engineering
+FOCUS     : Automation | Software Development | Digital Solutions
+STATUS    : Developing + Learning
+LOCATION  : Brazil
+```
 
-Desenvolvimento:
-  - Aplicações Web
-  - Interfaces responsivas
-  - Estruturação Front-End
+Estudante de **Engenharia da Computação na UFABC** e estagiária de **Automação**, atuando no desenvolvimento de soluções em Python para otimização de processos corporativos.
 
-Dados:
-  - Pandas
-  - Manipulação de planilhas
-  - Relatórios automatizados
+Minha atuação envolve automação de tarefas, integração com APIs, manipulação de dados e desenvolvimento de ferramentas digitais para transformar processos manuais em fluxos eficientes.
 
-Design:
-  - Prototipação no Figma
-  - UI/UX
+Tenho interesse em engenharia de software, automação inteligente, desenvolvimento web e construção de soluções escaláveis.
+
+Possuo conhecimento em **inglês técnico e comunicação profissional em ambientes de tecnologia**.
+
+---
+
+# TECHNOLOGY STACK
+
+## Programming Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css" />
+
+</div>
+
+
+## Frameworks, Libraries and Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode,figma" />
+
+</div>
+
+
+## Data and Automation
+
+```text
+Python
+ ├── Pandas
+ ├── Requests
+ ├── OAuth2
+ ├── REST API Integration
+ └── Data Processing
+
+Automation
+ ├── Process Automation
+ ├── Workflow Optimization
+ └── System Integration
 ```
 
 ---
 
-# 📚 Atualmente estudando
+# CURRENTLY STUDYING
 
-```diff
-+ C++
-+ Desenvolvimento Web
-+ Webflow
-+ Arquitetura de aplicações
-+ Integração avançada com APIs REST
+```text
+[ ACTIVE MODULES ]
+
+C++ 
+Webflow
+Advanced Web Development
+Software Architecture
+API Integration
 ```
 
 ---
 
-# 🎓 Formação & Cursos
+# EDUCATION
 
-🎓 **Engenharia da Computação — UFABC**  
-_Status: Em andamento_
+```text
+UFABC
+Computer Engineering
+Status: In Progress
 
-🎨 **Web Design — FIAP**  
-_1 ano de formação_
 
-🚀 **Cursos de Programação Full Stack — Alura & Santander**
+FIAP
+Web Design
+Duration: 1 year
 
----
 
-# 🚀 Projetos em destaque
-
-| Projeto | Descrição |
-|---|---|
-| 🤖 Automações em Python | Desenvolvimento de ferramentas para otimização de processos |
-| 🏥 Validação de Laudos PCD | Sistema para automação de validação documental |
-| 🌎 Ajudaê | Plataforma digital para denúncias ambientais |
-| 🎮 Lara Games | Plataforma para divulgação de jogos nacionais |
+Alura + Santander
+Full Stack Development Courses
+```
 
 ---
 
-# 📊 GitHub Analytics
+# PROJECTS
+
+```text
+01 | Automação de Laudos PCD
+
+Python application developed to automate medical report validation
+processes, including CRM verification and Excel data processing.
+
+
+02 | Automacao_Portela
+
+Business process management platform developed to optimize
+internal workflows through digital automation.
+
+
+03 | Ajudaê
+
+Environmental reporting platform focused on digital accessibility
+and community participation.
+
+
+04 | Lara Games
+
+Web platform designed to showcase Brazilian game development.
+```
+
+---
+
+# GITHUB ANALYTICS
 
 <div align="center">
 
@@ -115,43 +141,47 @@ _1 ano de formação_
 
 ---
 
-# 🟣 Atualmente conectada em
+# SYSTEM STATUS
 
 ```text
-[ SYSTEM ONLINE ]
+> Initializing profile...
 
-> Engenharia da Computação
-> Automação de processos
-> Desenvolvimento de soluções digitais
-> Aprendizado contínuo
+[OK] Computer Engineering
+[OK] Python Development
+[OK] Automation Systems
+[OK] API Integration
+[OK] Continuous Learning
 
-STATUS: BUILDING THE FUTURE ⚡
+CURRENT OBJECTIVE:
+
+Developing technology solutions that connect
+automation, software engineering and real-world impact.
+
+SYSTEM STATUS: ONLINE
 ```
 
 ---
 
-# 📫 Contato
+# CONTACT
 
 <div align="center">
 
 <a href="mailto:veronicasilri9@gmail.com">
-<img src="https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=black"/>
+<img src="https://img.shields.io/badge/EMAIL-00FFFF?style=for-the-badge&logo=gmail&logoColor=000000"/>
 </a>
 
 <a href="https://github.com/veronica9ribeiro">
-<img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-8A2BE2?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
-<a href="https://www.linkedin.com/](https://www.linkedin.com/in/veronicaribeiro-dev/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/veronicaribeiro-dev/">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
 
 </div>
 
----
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,50:5B21B6,100:0D1117&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00FFFF,100:050505&height=100&section=footer"/>
 
 </div>
